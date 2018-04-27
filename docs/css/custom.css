@@ -16,6 +16,8 @@
 	background-position: 50% 50%;
 }
 
+/*
+
 .paral p{
 	font-size: 18px;
 	color:#A9A9A9;
@@ -38,6 +40,8 @@
 	padding-top: 40px;
 	line-height: 80px;
 }
+
+*/
 
 .paral h3 {
 	color: rgba(64, 64, 64, 0.8);
@@ -69,6 +73,10 @@
 
 .people-image{
 	background: rgba(255,255,255,1);
+}
+
+.divider-section{
+	background: rgba(64, 64, 64, 0.8);
 }
 
 .main{
